@@ -22,7 +22,7 @@ body{
   width: 90vw;
   height:60vh;
   border: 1px solid black;
-  margin-top:5vw;
+  margin-top:4vw;
 
 }
 #op{
@@ -30,6 +30,7 @@ body{
     padding:1px ;
     border-radius: 50px;
     width:40vw;
+    color: white;
    
 }
 .op1{
@@ -125,4 +126,20 @@ body{
 }
 .num{
   padding:10px;
+}
+.text{
+  text-align:left;
+  margin-left: 10px;
+}
+.ops{
+  margin-left: 10px;
+}
+.ops2{
+  margin-right: 10px;
+}
+.ops3{
+  margin-left: 10px;
+}
+.ops4{
+  margin-right: 10px;
 }
